@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Viviana Ayala</h1>
+<h1 align="center">Hi 👋, I'm Viviana Ayala(✿◡‿◡)</h1>
 <h3 align="center">Aspiring Latina Software Engineer</h3>
 
 - 🔭 I’m currently working on [Legal Indexing Program](https://github.com/Vayala13/LAW-FIRM-AUTOMATION.git)
