@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Legal Indexing Program](https://github.com/Vayala13/LAW-FIRM-AUTOMATION.git)
 
-- 🌱 I’m currently learning **Java, Python, C++**
+- 🌱 I’m currently learning **full-stack development**
 
 - 📫 How to reach me **ayalav@myyahoo.com**
 
